@@ -1,1 +1,2 @@
 # Pre-Order program 
+Program pre order album memiliki dua akses berbeda, yaitu untuk seller dan buyer. Pada menu buyer, tersedia opsi untuk beranda, login buyer, mengelola keranjang, mencari album, melihat daftar album, serta melakukan pembayaran. Sementara itu, pada akses admin (seller), tersedia opsi untuk beranda, login seller, mengelola stok album, melihat data pemesanan, mengatur album yang tersedia, menghapus album, menambahkan album baru, mengelola pembayaran, dan melihat daftar album. Program ini akan terus memperbarui setiap hasil yang diberikan.
